@@ -26,7 +26,6 @@
 > **Un assistant IA 100% local et confidentiel** — 9 agents spécialisés, mémoire vectorielle de 10M tokens, feedback RLHF, traitement de documents (PDF/DOCX/Excel/CSV), recherche web temps réel, API REST intégrée et interface graphique moderne.  
 > Construit en Python avec Ollama. **Vos données ne quittent jamais votre machine.**
 
-| Ce qu'il fait | Ce qui le rend unique |
 |---|---|
 | 🤖 **9 Agents IA** — Code, Web, Debug, Sécurité, Data Science, Créatif, Analyste, Planificateur, Optimiseur | 🧠 **Mode Thinking** — L'IA réfléchit étape par étape avant de répondre. |
 | 💾 **Mémoire vectorielle 10M tokens** via ChromaDB avec recherche sémantique (sentence-transformers + HNSW) | 🌐 **API REST intégrée** — serveur FastAPI pour piloter l'IA depuis n'importe quel outil |
