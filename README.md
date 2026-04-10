@@ -26,12 +26,46 @@
 > **Un assistant IA 100% local et confidentiel** — 9 agents spécialisés, mémoire vectorielle de 10M tokens, feedback RLHF, traitement de documents (PDF/DOCX/Excel/CSV), recherche web temps réel, API REST intégrée et interface graphique moderne.  
 > Construit en Python avec Ollama. **Vos données ne quittent jamais votre machine.**
 
-|---|---|
-| 🤖 **9 Agents IA** — Code, Web, Debug, Sécurité, Data Science, Créatif, Analyste, Planificateur, Optimiseur | 🧠 **Mode Thinking** — L'IA réfléchit étape par étape avant de répondre. |
-| 💾 **Mémoire vectorielle 10M tokens** via ChromaDB avec recherche sémantique (sentence-transformers + HNSW) | 🌐 **API REST intégrée** — serveur FastAPI pour piloter l'IA depuis n'importe quel outil |
-| 📄 **Traitement de documents** — PDF, DOCX, Excel, CSV, code, images avec compression intelligente | 💼 **Workspaces & Sessions** — espaces de travail isolés avec sauvegarde automatique |
-| 🔍 **Recherche web temps réel** — intégration DuckDuckGo avec résumés automatiques | 🏗️ **Base de connaissances** — extraction automatique de faits depuis vos conversations |
-| 🔌 **Intégration MCP** — Model Context Protocol + accès système local (fichiers, dossiers) | 📤 **Export multi-format** — Markdown, HTML, PDF avec métadonnées complètes |
+<table>
+<tr>
+<td width="50%">
+
+**💾 Mémoire Vectorielle Étendue**  
+Jusqu'à 10 485 760 tokens stockés en mémoire interne (ChromaDB + SQLite).
+
+**🤖 9 Agents IA Spécialisés**  
+Code, Debug, Web, Sécurité... et création d'agents personnalisés avec interface style n8n.
+
+**🧠 Mode Thinking**  
+Pour les requêtes complexes, l'IA réfléchit étape par étape avant de répondre.
+
+**🔌 Intégration MCP (Model Context Protocol)**  
+Connexion standardisée à des outils locaux et serveurs externes (fichiers, git, bases de données).
+
+**🌐 API REST Locale**  
+Serveur FastAPI intégré pour piloter l'IA depuis n'importe quel outil externe.
+
+</td>
+<td width="50%">
+
+**🔍 Recherche Internet**  
+Accès aux informations en temps réel via DuckDuckGo. Résumés automatiques inclus.
+
+**📄 Traitement de Documents**
+PDF, DOCX, Excel, CSV, Code, images — analyse contextuelle ultra-étendue avec compression intelligente.
+
+**💼 Workspaces & Sessions**  
+Organisez vos conversations en espaces de travail isolés avec sauvegarde automatique.
+
+**🏗️ Base de Connaissances Structurée**  
+Extraction et stockage automatique de faits, préférences, décisions depuis vos conversations.
+
+**📤 Export Multi-Format**  
+Exportez vos conversations en Markdown, HTML ou PDF avec métadonnées complètes.
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
