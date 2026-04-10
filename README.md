@@ -23,6 +23,8 @@
 </a>
 </div>
 
+> **Un assistant IA 100% local et confidentiel** — Construit en Python avec Ollama. **Vos données ne quittent jamais votre machine.**
+
 <table>
 <tr>
 <td width="50%">
