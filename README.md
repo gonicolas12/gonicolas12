@@ -14,12 +14,14 @@
 
 ## 🚀 Projet Phare
 
+<div align="center">
 <a href="https://github.com/gonicolas12/My_AI">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/🤖_My__AI-Assistant_IA_Personnel_&_Local-blueviolet?style=for-the-badge&labelColor=1a1a2e">
   <img alt="My_AI" src="https://img.shields.io/badge/🤖_My__AI-Assistant_IA_Personnel_&_Local-blueviolet?style=for-the-badge&labelColor=f0f0f0">
 </picture>
 </a>
+</div>
 
 > **Un assistant IA 100% local et confidentiel** — 9 agents spécialisés, mémoire vectorielle de 10M tokens, feedback RLHF, traitement de documents (PDF/DOCX/Excel/CSV), recherche web temps réel, API REST intégrée et interface graphique moderne.  
 > Construit en Python avec Ollama. **Vos données ne quittent jamais votre machine.**
