@@ -21,7 +21,7 @@
 </picture>
 </a>
 
-> **Un assistant IA 100% local et confidentiel** — 9 agents spécialisés, mémoire vectorielle de 1M+ tokens, boucle RLHF, traitement de documents, recherche web temps réel et interface graphique moderne.  
+> **Un assistant IA 100% local et confidentiel** — 9 agents spécialisés, mémoire vectorielle de 10M tokens, feedback RLHF, traitement de documents (PDF/DOCX/Excel/CSV), recherche web temps réel, API REST intégrée et interface graphique moderne.  
 > Construit en Python avec Ollama. **Vos données ne quittent jamais votre machine.**
 
 <table>
@@ -30,12 +30,12 @@
 
 ### Ce qu'il fait
 
-- 🤖 **9 Agents IA** — Code, Web, Debug, Sécurité, Data Science...
-- 🧠 **Mémoire vectorielle 10M+ tokens** via ChromaDB avec compression intelligente
-- 📄 **Traitement de documents** — PDF, DOCX, Excel avec analyse contextuelle
+- 🤖 **9 Agents IA** — Code, Web, Debug, Sécurité, Data Science, Créatif, Analyste, Planificateur, Optimiseur
+- 🧠 **Mémoire vectorielle 10M tokens** via ChromaDB avec recherche sémantique (sentence-transformers + HNSW)
+- 📄 **Traitement de documents** — PDF, DOCX, Excel, CSV, code, images avec compression intelligente
 - 🌐 **Recherche web temps réel** — intégration DuckDuckGo avec résumés automatiques
-- 🎓 **Feedback RLHF** — apprend de vos retours sur chaque réponse
-- 🔌 **Intégration MCP** — Model Context Protocol pour des connexions d'outils extensibles
+- 🎓 **Feedback RLHF** — notation 1-5 étoiles sur chaque réponse, enregistré automatiquement
+- 🔌 **Intégration MCP** — Model Context Protocol + accès système local (fichiers, dossiers)
 
 </td>
 <td width="50%">
@@ -44,10 +44,11 @@
 
 - 💻 **100% local** — tourne entièrement sur votre machine via Ollama
 - 🔒 **Zéro dépendance cloud** — SQLite + ChromaDB, aucune clé API requise
-- 🧩 **Architecture modulaire** — créez vos propres agents personnalisés
-- 🧠 **Mode Thinking** — raisonnement en deux passes pour les requêtes complexes
-- 🪶 **Léger** — fonctionne sur du matériel modeste
-- 🖥️ **Interface moderne** — thème sombre, drag & drop, raccourcis clavier
+- 🌐 **API REST intégrée** — serveur FastAPI pour piloter l'IA depuis n'importe quel outil
+- 💼 **Workspaces & Sessions** — espaces de travail isolés avec sauvegarde automatique
+- 🏗️ **Base de connaissances** — extraction automatique de faits depuis vos conversations
+- 📤 **Export multi-format** — Markdown, HTML, PDF avec métadonnées complètes
+- 🌍 **12 langues** détectées automatiquement
 
 </td>
 </tr>
@@ -75,6 +76,7 @@
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-4A154B?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -99,9 +101,9 @@
 
 ## 🔭 En ce moment
 
-- 🤖 Évolution de **My_AI** — nouveaux agents, amélioration de la mémoire, exploration de nouveaux LLMs locaux
+- 🤖 Évolution de **My_AI** — nouveaux agents, canvas de workflow visuel style n8n, monitoring GPU
 - 📊 Construction de **pipelines d'automatisation data** avec n8n & Python
-- 🧠 Approfondissement en **ingénierie IA** — RAG, MCP, patterns d'orchestration
+- 🧠 Approfondissement en **ingénierie IA** — RAG, MCP, patterns d'orchestration (ReAct, Plan & Execute)
 - 📈 Création de **dashboards Power BI** et workflows data
 
 ---
