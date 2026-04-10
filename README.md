@@ -23,9 +23,6 @@
 </a>
 </div>
 
-> **Un assistant IA 100% local et confidentiel** — 9 agents spécialisés, mémoire vectorielle de 10M tokens, feedback RLHF, traitement de documents (PDF/DOCX/Excel/CSV), recherche web temps réel, API REST intégrée et interface graphique moderne.  
-> Construit en Python avec Ollama. **Vos données ne quittent jamais votre machine.**
-
 <table>
 <tr>
 <td width="50%">
