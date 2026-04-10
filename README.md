@@ -43,7 +43,6 @@
 ### Ce qui le rend unique
 
 - 💻 **100% local** — tourne entièrement sur votre machine via Ollama
-- 🔒 **Zéro dépendance cloud** — SQLite + ChromaDB, aucune clé API requise
 - 🌐 **API REST intégrée** — serveur FastAPI pour piloter l'IA depuis n'importe quel outil
 - 💼 **Workspaces & Sessions** — espaces de travail isolés avec sauvegarde automatique
 - 🏗️ **Base de connaissances** — extraction automatique de faits depuis vos conversations
