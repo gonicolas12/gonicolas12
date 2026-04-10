@@ -26,34 +26,15 @@
 > **Un assistant IA 100% local et confidentiel** — 9 agents spécialisés, mémoire vectorielle de 10M tokens, feedback RLHF, traitement de documents (PDF/DOCX/Excel/CSV), recherche web temps réel, API REST intégrée et interface graphique moderne.  
 > Construit en Python avec Ollama. **Vos données ne quittent jamais votre machine.**
 
-<table>
-<tr>
-<td width="50%">
-
-### Ce qu'il fait
-
-- 🤖 **9 Agents IA** — Code, Web, Debug, Sécurité, Data Science, Créatif, Analyste, Planificateur, Optimiseur
-- 🧠 **Mémoire vectorielle 10M tokens** via ChromaDB avec recherche sémantique (sentence-transformers + HNSW)
-- 📄 **Traitement de documents** — PDF, DOCX, Excel, CSV, code, images avec compression intelligente
-- 🌐 **Recherche web temps réel** — intégration DuckDuckGo avec résumés automatiques
-- 🎓 **Feedback RLHF** — notation 1-5 étoiles sur chaque réponse, enregistré automatiquement
-- 🔌 **Intégration MCP** — Model Context Protocol + accès système local (fichiers, dossiers)
-
-</td>
-<td width="50%">
-
-### Ce qui le rend unique
-
-- 💻 **100% local** — tourne entièrement sur votre machine via Ollama
-- 🌐 **API REST intégrée** — serveur FastAPI pour piloter l'IA depuis n'importe quel outil
-- 💼 **Workspaces & Sessions** — espaces de travail isolés avec sauvegarde automatique
-- 🏗️ **Base de connaissances** — extraction automatique de faits depuis vos conversations
-- 📤 **Export multi-format** — Markdown, HTML, PDF avec métadonnées complètes
-- 🌍 **12 langues** détectées automatiquement
-
-</td>
-</tr>
-</table>
+| Ce qu'il fait | Ce qui le rend unique |
+|---|---|
+| 🤖 **9 Agents IA** — Code, Web, Debug, Sécurité, Data Science, Créatif, Analyste, Planificateur, Optimiseur | 💻 **100% local** — tourne entièrement sur votre machine via Ollama |
+| 🧠 **Mémoire vectorielle 10M tokens** via ChromaDB avec recherche sémantique (sentence-transformers + HNSW) | 🔒 **Zéro dépendance cloud** — SQLite + ChromaDB, aucune clé API requise |
+| 📄 **Traitement de documents** — PDF, DOCX, Excel, CSV, code, images avec compression intelligente | 🌐 **API REST intégrée** — serveur FastAPI pour piloter l'IA depuis n'importe quel outil |
+| 🌐 **Recherche web temps réel** — intégration DuckDuckGo avec résumés automatiques | 💼 **Workspaces & Sessions** — espaces de travail isolés avec sauvegarde automatique |
+| 🎓 **Feedback RLHF** — notation 1-5 étoiles sur chaque réponse, enregistré automatiquement | 🏗️ **Base de connaissances** — extraction automatique de faits depuis vos conversations |
+| 🔌 **Intégration MCP** — Model Context Protocol + accès système local (fichiers, dossiers) | 📤 **Export multi-format** — Markdown, HTML, PDF avec métadonnées complètes |
+| | 🌍 **12 langues** détectées automatiquement |
 
 <div align="center">
 
