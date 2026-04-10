@@ -97,21 +97,6 @@ Exportez vos conversations en Markdown, HTML ou PDF avec métadonnées complète
 
 ---
 
-## 📊 Statistiques GitHub
-
-<div align="center">
-
-<a href="https://github.com/gonicolas12">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=gonicolas12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=fr" height="165" alt="Statistiques GitHub"/>
-</a>
-<a href="https://github.com/gonicolas12">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=gonicolas12&layout=compact&theme=tokyonight&hide_border=true&locale=fr" height="165" alt="Langages les plus utilisés"/>
-</a>
-
-</div>
-
----
-
 ## 🔭 En ce moment
 
 - 🤖 Évolution de **My_AI** — nouveaux agents, canvas de workflow visuel style n8n, monitoring GPU
