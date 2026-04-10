@@ -29,12 +29,11 @@
 | Ce qu'il fait | Ce qui le rend unique |
 |---|---|
 | 🤖 **9 Agents IA** — Code, Web, Debug, Sécurité, Data Science, Créatif, Analyste, Planificateur, Optimiseur | 💻 **100% local** — tourne entièrement sur votre machine via Ollama |
-| 🧠 **Mémoire vectorielle 10M tokens** via ChromaDB avec recherche sémantique (sentence-transformers + HNSW) | 🔒 **Zéro dépendance cloud** — SQLite + ChromaDB, aucune clé API requise |
-| 📄 **Traitement de documents** — PDF, DOCX, Excel, CSV, code, images avec compression intelligente | 🌐 **API REST intégrée** — serveur FastAPI pour piloter l'IA depuis n'importe quel outil |
-| 🌐 **Recherche web temps réel** — intégration DuckDuckGo avec résumés automatiques | 💼 **Workspaces & Sessions** — espaces de travail isolés avec sauvegarde automatique |
-| 🎓 **Feedback RLHF** — notation 1-5 étoiles sur chaque réponse, enregistré automatiquement | 🏗️ **Base de connaissances** — extraction automatique de faits depuis vos conversations |
-| 🔌 **Intégration MCP** — Model Context Protocol + accès système local (fichiers, dossiers) | 📤 **Export multi-format** — Markdown, HTML, PDF avec métadonnées complètes |
-| | 🌍 **12 langues** détectées automatiquement |
+| 🧠 **Mémoire vectorielle 10M tokens** via ChromaDB avec recherche sémantique (sentence-transformers + HNSW) | 🌐 **API REST intégrée** — serveur FastAPI pour piloter l'IA depuis n'importe quel outil |
+| 📄 **Traitement de documents** — PDF, DOCX, Excel, CSV, code, images avec compression intelligente | 💼 **Workspaces & Sessions** — espaces de travail isolés avec sauvegarde automatique |
+| 🌐 **Recherche web temps réel** — intégration DuckDuckGo avec résumés automatiques | 🏗️ **Base de connaissances** — extraction automatique de faits depuis vos conversations |
+| 🎓 **Feedback RLHF** — notation 1-5 étoiles sur chaque réponse, enregistré automatiquement | 📤 **Export multi-format** — Markdown, HTML, PDF avec métadonnées complètes |
+| 🔌 **Intégration MCP** — Model Context Protocol + accès système local (fichiers, dossiers) | 🌍 **12 langues** détectées automatiquement |
 
 <div align="center">
 
