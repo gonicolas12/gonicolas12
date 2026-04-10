@@ -53,11 +53,11 @@ Accès aux informations en temps réel via DuckDuckGo. Résumés automatiques in
 **📄 Traitement de Documents**
 PDF, DOCX, Excel, CSV, Code, images — analyse contextuelle ultra-étendue avec compression intelligente.
 
+**📡 Accès Mobile**  
+Discutez avec votre IA depuis votre téléphone, où que vous soyez, via un tunnel sécurisé.
+
 **💼 Workspaces & Sessions**  
 Organisez vos conversations en espaces de travail isolés avec sauvegarde automatique.
-
-**🏗️ Base de Connaissances Structurée**  
-Extraction et stockage automatique de faits, préférences, décisions depuis vos conversations.
 
 **📤 Export Multi-Format**  
 Exportez vos conversations en Markdown, HTML ou PDF avec métadonnées complètes.
