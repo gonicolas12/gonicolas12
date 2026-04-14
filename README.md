@@ -18,9 +18,9 @@
   <a href="https://github.com/gonicolas12/My_AI">
     <picture>
       <source media="(prefers-color-scheme: dark)"
-        srcset="https://img.shields.io/badge/🤖_My__AI-Assistant_IA_Personnel_&_Local-c65a00?style=for-the-badge&labelColor=1a1a2e">
+        srcset="https://img.shields.io/badge/🤖_My__AI-Assistant_IA_Personnel_&_Local-d96a00?style=for-the-badge&labelColor=1a1a2e">
       <img alt="My_AI"
-        src="https://img.shields.io/badge/🤖_My__AI-Assistant_IA_Personnel_&_Local-c65a00?style=for-the-badge&labelColor=f0f0f0">
+        src="https://img.shields.io/badge/🤖_My__AI-Assistant_IA_Personnel_&_Local-d96a00?style=for-the-badge&labelColor=f0f0f0">
     </picture>
   </a>
 </div>
