@@ -98,7 +98,7 @@ Exportez vos conversations en Markdown, HTML ou PDF avec métadonnées complète
 
 ## 🔭 En ce moment
 
-- 🤖 Évolution de **My_AI** — intégration de **My_AI Relay**, à découvrir bientôt...
+- 🤖 Évolution de **My_AI** — amélioration de **My_AI Relay**, à découvrir bientôt...
 - 📊 Construction de **pipelines d'automatisation data** avec n8n & Python
 - 🧠 Approfondissement en **ingénierie IA** — RAG, MCP, patterns d'orchestration (ReAct, Plan & Execute)
 - 📈 Création de **dashboards Power BI** et workflows data
