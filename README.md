@@ -43,8 +43,8 @@ Pour les requêtes complexes, l'IA réfléchit étape par étape avant de répon
 **🔌 Intégration MCP (Model Context Protocol)**  
 Connexion standardisée à des outils locaux et serveurs externes (fichiers, git, bases de données).
 
-**🌐 API REST Locale**  
-Serveur FastAPI intégré pour piloter l'IA depuis n'importe quel outil externe.
+**💻 Extension VS Code**  
+Intégration native dans l'éditeur de code pour une expérience de développement fluide.
 
 </td>
 <td width="50%">
@@ -61,8 +61,8 @@ Discutez avec votre IA depuis votre téléphone, où que vous soyez, via un tunn
 **💼 Workspaces & Sessions**  
 Organisez vos conversations en espaces de travail isolés avec sauvegarde automatique.
 
-**📤 Export Multi-Format**  
-Exportez vos conversations en Markdown, HTML ou PDF avec métadonnées complètes.
+**🌐 API REST Locale**  
+Serveur FastAPI intégré pour piloter l'IA depuis n'importe quel outil externe.
 
 </td>
 </tr>
