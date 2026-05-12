@@ -43,8 +43,8 @@ Pour les requêtes complexes, l'IA réfléchit étape par étape avant de répon
 **🔌 Intégration MCP (Model Context Protocol)**  
 Connexion standardisée à des outils locaux et serveurs externes (fichiers, git, bases de données).
 
-**💻 Extension VS Code**  
-Intégration native dans l'éditeur de code pour une expérience de développement fluide.
+**💼 Workspaces & Sessions**  
+Organisez vos conversations en espaces de travail isolés avec sauvegarde automatique.
 
 </td>
 <td width="50%">
@@ -58,8 +58,8 @@ PDF, DOCX, Excel, CSV, Code, images, analyse contextuelle ultra-étendue avec co
 **📡 Accès Mobile**  
 Discutez avec votre IA depuis votre téléphone, où que vous soyez, via un tunnel sécurisé.
 
-**💼 Workspaces & Sessions**  
-Organisez vos conversations en espaces de travail isolés avec sauvegarde automatique.
+**💻 Extension VS Code agentique**  
+Façon Claude Code : lecture, édition, création de fichiers... le tout via le tunnel chiffré.
 
 **🌐 API REST Locale**  
 Serveur FastAPI intégré pour piloter l'IA depuis n'importe quel outil externe.
