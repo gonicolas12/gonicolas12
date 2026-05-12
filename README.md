@@ -100,7 +100,7 @@ Serveur FastAPI intégré pour piloter l'IA depuis n'importe quel outil externe.
 
 ## 🔭 En ce moment
 
-- 🤖 Évolution de **My_AI** — implémentation de **l'extension VS Code**, à découvrir bientôt...
+- 🤖 Évolution de **My_AI** — amélioration de **My_AI Relay**, à découvrir bientôt...
 - 📊 Construction de **pipelines d'automatisation data** avec n8n & Python
 - 🧠 Approfondissement en **ingénierie IA** — RAG, MCP, patterns d'orchestration (ReAct, Plan & Execute)
 - 📈 Création de **dashboards Power BI** et workflows data
