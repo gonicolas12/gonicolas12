@@ -61,8 +61,8 @@ Discutez avec votre IA depuis votre téléphone, où que vous soyez, via un tunn
 **💻 Extension VS Code agentique**  
 Façon Claude Code : lecture, édition, création de fichiers... le tout via le tunnel chiffré.
 
-**🌐 API REST Locale**  
-Serveur FastAPI intégré pour piloter l'IA depuis n'importe quel outil externe.
+**🎙️ Saisie vocale locale**  
+Dictée intégrée via faster-whisper dans toutes les zones de saisie (chat + agents).
 
 </td>
 </tr>
