@@ -100,7 +100,7 @@ Dictée intégrée via faster-whisper dans toutes les zones de saisie (chat + ag
 
 ## 🔭 En ce moment
 
-- 🤖 Évolution de **My_AI** — amélioration de **My_AI Relay**, à découvrir bientôt...
+- 🤖 Développement de **My_OS**, à découvrir bientôt...
 - 📊 Construction de **pipelines d'automatisation data** avec n8n & Python
 - 🧠 Approfondissement en **ingénierie IA** — RAG, MCP, patterns d'orchestration (ReAct, Plan & Execute)
 - 📈 Création de **dashboards Power BI** et workflows data
