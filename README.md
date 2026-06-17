@@ -61,8 +61,8 @@ Discutez avec votre IA depuis votre téléphone, où que vous soyez, via un tunn
 **💻 Extension VS Code agentique**  
 Façon Claude Code : lecture, édition, création de fichiers... le tout via le tunnel chiffré.
 
-**🎙️ Saisie vocale locale**  
-Dictée intégrée via faster-whisper dans toutes les zones de saisie (chat + agents).
+**🎙️ Voix locale**  
+Dictée via faster-whisper dans toutes les zones de saisie, et lecture vocale des réponses.
 
 </td>
 </tr>
