@@ -43,8 +43,8 @@ Pour les requêtes complexes, l'IA réfléchit étape par étape avant de répon
 **🔌 Intégration MCP (Model Context Protocol)**  
 Connexion standardisée à des outils locaux et serveurs externes (fichiers, git, bases de données).
 
-**💼 Workspaces & Sessions**  
-Organisez vos conversations en espaces de travail isolés avec sauvegarde automatique.
+**📅 Tâches Planifiées (proactif)**  
+Planifiez vos agents et workflows en récurrence, exécution même l'application fermée.
 
 </td>
 <td width="50%">
