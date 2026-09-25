@@ -52,8 +52,8 @@ Planifiez vos agents et workflows en récurrence, exécution même l'application
 **🔍 Recherche Internet**  
 Accès aux informations en temps réel via DuckDuckGo. Résumés automatiques inclus.
 
-**📄 Traitement de Documents**
-PDF, DOCX, Excel, CSV, Code, images, analyse contextuelle ultra-étendue avec compression intelligente.
+**📄 Génération et traitement de Documents**  
+PDF, DOCX, PowerPoint, Excel, CSV, Code, images, analyse contextuelle ultra-étendue.
 
 **📡 Accès Mobile**  
 Discutez avec votre IA depuis votre téléphone, où que vous soyez, via un tunnel sécurisé.
