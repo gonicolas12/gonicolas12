@@ -50,7 +50,7 @@ Planifiez vos agents et workflows en récurrence, exécution même l'application
 <td width="50%">
 
 **🔍 Recherche Internet**  
-Accès aux informations en temps réel via DuckDuckGo. Résumés automatiques inclus.
+Informations en temps réel via DuckDuckGo (Yahoo et Wikipédia en secours).
 
 **📄 Génération et traitement de Documents**  
 PDF, DOCX, PowerPoint, Excel, CSV, Code, images, analyse contextuelle ultra-étendue.
@@ -59,7 +59,7 @@ PDF, DOCX, PowerPoint, Excel, CSV, Code, images, analyse contextuelle ultra-éte
 Discutez avec votre IA depuis votre téléphone, où que vous soyez, via un tunnel sécurisé.
 
 **💻 Extension VS Code agentique**  
-Façon Claude Code : lecture, édition, création de fichiers... le tout via le tunnel chiffré.
+Lecture, édition, création de fichiers... le tout via le tunnel chiffré.
 
 **🎙️ Voix locale**  
 Dictée via faster-whisper dans toutes les zones de saisie, et lecture vocale des réponses.
