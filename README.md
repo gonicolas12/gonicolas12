@@ -99,7 +99,7 @@ Dictée via faster-whisper dans toutes les zones de saisie, et lecture vocale de
 <td width="50%">
 
 **💬 Popup Instantané**  
-`Ctrl+Alt+Espace` ouvre l'assistant à tout moment : réponses en streaming, sorties d'outils dans des cartes.
+`Ctrl+Alt+Espace` ouvre l'assistant à tout moment.
 
 **🗂️ Pilotage du Système**  
 Fichiers, paquets (pacman), volume, luminosité, Wi-Fi, processus... en langage naturel.
