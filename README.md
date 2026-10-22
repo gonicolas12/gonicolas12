@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 Projet Phare
+## 🚀 Projets Phares
 
 <div align="center">
   <a href="https://github.com/gonicolas12/My_AI">
@@ -79,6 +79,74 @@ Dictée via faster-whisper dans toutes les zones de saisie, et lecture vocale de
 
 </div>
 
+<br>
+
+<div align="center">
+  <a href="https://github.com/gonicolas12/My_OS">
+    <picture>
+      <source media="(prefers-color-scheme: dark)"
+        srcset="https://img.shields.io/badge/🖥️_My__OS-Linux_assisté_par_IA_Local_&_Sécurisé-ff8c00?style=for-the-badge&labelColor=1a1a2e">
+      <img alt="My_OS"
+        src="https://img.shields.io/badge/🖥️_My__OS-Linux_assisté_par_IA_Local_&_Sécurisé-ff8c00?style=for-the-badge&labelColor=f0f0f0">
+    </picture>
+  </a>
+</div>
+
+> **Une IA intégrée au cœur de Linux, locale et sécurisée** — Distribution basée sur Arch, construite en Python avec Qt et Ollama. **Aucune action à risque sans votre confirmation.**
+
+<table>
+<tr>
+<td width="50%">
+
+**💬 Popup Instantané**  
+`Ctrl+Alt+Espace` ouvre l'assistant à tout moment : réponses en streaming, sorties d'outils dans des cartes.
+
+**🗂️ Pilotage du Système**  
+Fichiers, paquets (pacman), volume, luminosité, Wi-Fi, processus... en langage naturel.
+
+**🛡️ Permissions à 4 Niveaux**  
+Confirmation systématique des actions à risque, blocklist infranchissable, « Refuser » par défaut.
+
+**🧾 Journal d'Audit**  
+Chaque action et chaque décision sont tracées dans une base SQLite locale.
+
+**🔐 Sécurité par Conception**  
+Daemon sans root, élévation ponctuelle via polkit, contenu lu traité comme donnée (anti-injection de prompt).
+
+</td>
+<td width="50%">
+
+**🧠 Modèle Local**  
+Qwen via Ollama, 100 % sur la machine, avec accélération par carte graphique (Vulkan) si présente.
+
+**☁️ Cloud en Option**  
+Claude activable requête par requête via un toggle visible, clé API dans le trousseau du système.
+
+**💿 ISO Live Bootable**  
+Base Arch + Xfce, prête à l'emploi, testée en VM (BIOS et UEFI).
+
+**🐧 X11 & Wayland**  
+X11 pleinement supporté, Wayland (layer-shell) en version expérimentale.
+
+**✅ Validé en VM**  
+42 scénarios de permissions, 6 contournements trouvés, corrigés et re-testés.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/gonicolas12/My_OS?style=social)](https://github.com/gonicolas12/My_OS/stargazers)
+[![Release](https://img.shields.io/github/v/release/gonicolas12/My_OS?color=ff8c00)](https://github.com/gonicolas12/My_OS/releases/tag/v1.4)
+[![Arch Linux](https://img.shields.io/badge/Arch_Linux-Base-1793D1?logo=archlinux&logoColor=white)](https://archlinux.org/)
+[![Ollama](https://img.shields.io/badge/Ollama-LLM_Local-black?logo=ollama&logoColor=white)](https://ollama.com/)
+[![License](https://img.shields.io/github/license/gonicolas12/My_OS)](https://github.com/gonicolas12/My_OS/blob/main/LICENSE)
+
+**[⭐ Découvrir le projet →](https://github.com/gonicolas12/My_OS)** · **[💿 Télécharger l'ISO v1.4 →](https://github.com/gonicolas12/My_OS/releases/tag/v1.4)**
+
+</div>
+
 ---
 
 ## 🛠️ Stack Technique
@@ -90,6 +158,8 @@ Dictée via faster-whisper dans toutes les zones de saisie, et lecture vocale de
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![PySide6](https://img.shields.io/badge/PySide6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-4A154B?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -100,7 +170,7 @@ Dictée via faster-whisper dans toutes les zones de saisie, et lecture vocale de
 
 ## 🔭 En ce moment
 
-- 🤖 Développement de **[My_OS](https://github.com/gonicolas12/My_OS)**, à découvrir bientôt...
+- 🖥️ Évolution de **[My_OS](https://github.com/gonicolas12/My_OS)** — v1.4 publiée
 - 📊 Construction de **pipelines d'automatisation data** avec n8n & Python
 - 🧠 Approfondissement en **ingénierie IA** — RAG, MCP, patterns d'orchestration (ReAct, Plan & Execute)
 - 📈 Création de **dashboards Power BI** et workflows data
@@ -110,6 +180,6 @@ Dictée via faster-whisper dans toutes les zones de saisie, et lecture vocale de
 <div align="center">
 
 *Je crois que l'IA devrait être locale, privée et accessible à tous.*  
-*Si ça vous parle, jetez un œil à [My_AI](https://github.com/gonicolas12/My_AI) et laissez-lui une ⭐*
+*Si ça vous parle, jetez un œil à [My_AI](https://github.com/gonicolas12/My_AI) et [My_OS](https://github.com/gonicolas12/My_OS) et laissez-leur une ⭐*
 
 </div>
