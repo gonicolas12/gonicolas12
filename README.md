@@ -33,13 +33,14 @@ Chat, agents, documents, images and voice, powered by [Ollama](https://ollama.co
 
 ### 🖥️ [My_OS](https://github.com/gonicolas12/My_OS) · a Linux distribution with a built-in local AI
 
-A global hotkey (`Ctrl+Alt+Space`) opens an assistant that organizes files, installs packages, tweaks settings and controls your PC in natural language, with a confirmation for every risky action. The model runs locally (Qwen via Ollama, GPU through Vulkan); Claude can be turned on per request.
+A global hotkey (`Ctrl+Alt+Space`) opens an assistant that organizes files, installs packages, tweaks settings and controls your PC in natural language, in English or French, with a confirmation for every risky action. The model runs locally (Qwen via Ollama, GPU through Vulkan); Claude can be turned on per request.
 
-<a href="https://github.com/gonicolas12/My_OS"><img src="https://raw.githubusercontent.com/gonicolas12/My_OS/main/docs/media/controle.gif" alt="My_OS v1.5: the local model fills in and sends a form in Firefox" width="100%"></a>
+<a href="https://github.com/gonicolas12/My_OS"><img src="https://raw.githubusercontent.com/gonicolas12/My_OS/main/docs/media/en/controle.gif" alt="My_OS v1.6: the local model fills in and submits a form in Firefox, then reports back" width="100%"></a>
 
-- **New in v1.5, computer control**: the local model reads the screen through the accessibility tree and OCR, then acts with the mouse and keyboard. In the lab, 27 to 28 tasks out of 28 succeed, against 3 when clicking by coordinates. The screen edges glow while it works, and `Esc` stops it.
-- **Secure by design**: 4 permission levels with "Deny" as the default, a daemon without root (one-off elevation through polkit) and an audit log of every action. What the model reads on screen or in files stays data, never instructions.
-- **Bootable live ISO**: Arch Linux + Xfce, tested in VMs (BIOS and UEFI), 762 automated tests.
+- **New in v1.6, English and French**: the interface, the model's answers, confirmations and computer control all follow your language. My_OS picks your Linux language at first launch, and a 🌐 button switches it at any time.
+- **Computer control** (since v1.5): the local model reads the screen through the accessibility tree and OCR, then acts with the mouse and keyboard. In the lab, 27 to 28 tasks out of 28 succeed, against 3 when clicking by coordinates. The screen edges glow while it works, and `Esc` stops it.
+- **Secure by design**: 4 permission levels with "Deny" as the default, a daemon without root (one-off elevation through polkit) and an audit log of every action. On screen, sensitive actions (a terminal, a "Delete" or "Submit" button, even Enter in a form) are confirmed one by one, in both languages. What the model reads on screen or in files stays data, never instructions.
+- **Bootable live ISO**: Arch Linux + Xfce, tested in VMs (BIOS and UEFI) in both languages, 865 automated tests.
 
 [![Stars](https://img.shields.io/github/stars/gonicolas12/My_OS?style=social)](https://github.com/gonicolas12/My_OS/stargazers)
 [![Release](https://img.shields.io/github/v/release/gonicolas12/My_OS?color=ff8c00)](https://github.com/gonicolas12/My_OS/releases/latest)
@@ -69,7 +70,7 @@ A global hotkey (`Ctrl+Alt+Space`) opens an assistant that organizes files, inst
 
 ## 🔭 Right now
 
-- 🖥️ **[My_OS](https://github.com/gonicolas12/My_OS) v1.5** is out: the local model can now see the screen and control the computer
+- 🖥️ **[My_OS](https://github.com/gonicolas12/My_OS) v1.6** is out: My_OS now speaks English and French, and its local model still sees the screen and controls the computer
 - 🌍 **[My_AI](https://github.com/gonicolas12/My_AI)** now speaks 12 languages
 - 📊 Building **data automation pipelines** with n8n and Python
 - 🧠 Going deeper into **AI engineering**: RAG, MCP, orchestration patterns (ReAct, Plan & Execute)
