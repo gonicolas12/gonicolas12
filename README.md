@@ -74,7 +74,6 @@ A global hotkey (`Ctrl+Alt+Space`) opens an assistant that organizes files, inst
 - 🌍 **[My_AI](https://github.com/gonicolas12/My_AI)** now speaks 12 languages
 - 📊 Building **data automation pipelines** with n8n and Python
 - 🧠 Going deeper into **AI engineering**: RAG, MCP, orchestration patterns (ReAct, Plan & Execute)
-- 📈 Building **Power BI dashboards** and data workflows
 
 ---
 
