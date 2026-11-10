@@ -22,9 +22,9 @@ Chat, agents, documents, images and voice, powered by [Ollama](https://ollama.co
 <a href="https://github.com/gonicolas12/My_AI"><img src="https://raw.githubusercontent.com/gonicolas12/My_AI/main/docs/images/en/chat.gif" alt="My_AI answering a question: reasoning, web search, then an answer with cited sources" width="100%"></a>
 
 - **9 specialized agents** and a visual workflow editor, with scheduled tasks
-- **Documents and images**: Word, PDF, Excel and PowerPoint generation, local image generation
-- **Voice, phone and VS Code**: local voice input and output, end-to-end encrypted access from your phone, an agentic VS Code extension
-- **Memory you control**: up to 10M tokens of local vector memory, which you can browse, edit and delete
+- **Documents and images** : Word, PDF, Excel and PowerPoint generation, local image generation
+- **Voice, phone and VS Code** : local voice input and output, end-to-end encrypted access from your phone, an agentic VS Code extension
+- **Memory you control** : up to 10M tokens of local vector memory, which you can browse, edit and delete
 
 [![Stars](https://img.shields.io/github/stars/gonicolas12/My_AI?style=social)](https://github.com/gonicolas12/My_AI/stargazers)
 [![Release](https://img.shields.io/github/v/release/gonicolas12/My_AI?color=ff6b47)](https://github.com/gonicolas12/My_AI/releases)
@@ -39,8 +39,8 @@ A global hotkey (`Ctrl+Alt+Space`) opens an assistant that organizes files, inst
 
 - **English and French** : the interface, the model's answers, confirmations and computer control all follow your language. My_OS picks your Linux language at first launch, and a 🌐 button switches it at any time.
 - **Computer control** : the local model reads the screen through the accessibility tree and OCR, then acts with the mouse and keyboard. In the lab, 27 to 28 tasks out of 28 succeed, against 3 when clicking by coordinates. The screen edges glow while it works, and `Esc` stops it.
-- **Secure by design**: 4 permission levels with "Deny" as the default, a daemon without root (one-off elevation through polkit) and an audit log of every action. On screen, sensitive actions (a terminal, a "Delete" or "Submit" button, even Enter in a form) are confirmed one by one, in both languages. What the model reads on screen or in files stays data, never instructions.
-- **Bootable live ISO**: Arch Linux + Xfce, tested in VMs (BIOS and UEFI) in both languages, 865 automated tests.
+- **Secure by design** : 4 permission levels with "Deny" as the default, a daemon without root (one-off elevation through polkit) and an audit log of every action. On screen, sensitive actions (a terminal, a "Delete" or "Submit" button, even Enter in a form) are confirmed one by one, in both languages. What the model reads on screen or in files stays data, never instructions.
+- **Bootable live ISO** : Arch Linux + Xfce, tested in VMs (BIOS and UEFI) in both languages, 865 automated tests.
 
 [![Stars](https://img.shields.io/github/stars/gonicolas12/My_OS?style=social)](https://github.com/gonicolas12/My_OS/stargazers)
 [![Release](https://img.shields.io/github/v/release/gonicolas12/My_OS?color=ff8c00)](https://github.com/gonicolas12/My_OS/releases/latest)
@@ -70,10 +70,10 @@ A global hotkey (`Ctrl+Alt+Space`) opens an assistant that organizes files, inst
 
 ## 🔭 Right now
 
-- 🖥️ **[My_OS](https://github.com/gonicolas12/My_OS) v1.7** is out: a security update of the ISO, and cloud mode updated for Claude Sonnet 5.5 and tested with a real key
+- 🖥️ **[My_OS](https://github.com/gonicolas12/My_OS) v1.7** is out : a security update of the ISO, and cloud mode updated for Claude Sonnet 5.5 and tested with a real key
 - 🌍 **[My_AI](https://github.com/gonicolas12/My_AI)** now speaks 12 languages
 - 📊 Building **data automation pipelines** with n8n and Python
-- 🧠 Going deeper into **AI engineering**: RAG, MCP, orchestration patterns (ReAct, Plan & Execute)
+- 🧠 Going deeper into **AI engineering** : RAG, MCP, orchestration patterns (ReAct, Plan & Execute)
 
 ---
 
