@@ -37,10 +37,10 @@ A global hotkey (`Ctrl+Alt+Space`) opens an assistant that organizes files, inst
 
 <a href="https://github.com/gonicolas12/My_OS"><img src="https://raw.githubusercontent.com/gonicolas12/My_OS/main/docs/media/en/controle.gif" alt="My_OS v1.6: the local model fills in and submits a form in Firefox, then reports back" width="100%"></a>
 
-- **English and French** (since v1.6): the interface, the model's answers, confirmations and computer control all follow your language. My_OS picks your Linux language at first launch, and a 🌐 button switches it at any time.
-- **Computer control** (since v1.5): the local model reads the screen through the accessibility tree and OCR, then acts with the mouse and keyboard. In the lab, 27 to 28 tasks out of 28 succeed, against 3 when clicking by coordinates. The screen edges glow while it works, and `Esc` stops it.
+- **English and French** : the interface, the model's answers, confirmations and computer control all follow your language. My_OS picks your Linux language at first launch, and a 🌐 button switches it at any time.
+- **Computer control** : the local model reads the screen through the accessibility tree and OCR, then acts with the mouse and keyboard. In the lab, 27 to 28 tasks out of 28 succeed, against 3 when clicking by coordinates. The screen edges glow while it works, and `Esc` stops it.
 - **Secure by design**: 4 permission levels with "Deny" as the default, a daemon without root (one-off elevation through polkit) and an audit log of every action. On screen, sensitive actions (a terminal, a "Delete" or "Submit" button, even Enter in a form) are confirmed one by one, in both languages. What the model reads on screen or in files stays data, never instructions.
-- **Bootable live ISO**: Arch Linux + Xfce, tested in VMs (BIOS and UEFI) in both languages, 865 automated tests. New in v1.7: a security update (certificates, Tesseract, Python and Ollama up to date).
+- **Bootable live ISO**: Arch Linux + Xfce, tested in VMs (BIOS and UEFI) in both languages, 865 automated tests.
 
 [![Stars](https://img.shields.io/github/stars/gonicolas12/My_OS?style=social)](https://github.com/gonicolas12/My_OS/stargazers)
 [![Release](https://img.shields.io/github/v/release/gonicolas12/My_OS?color=ff8c00)](https://github.com/gonicolas12/My_OS/releases/latest)
