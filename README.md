@@ -70,7 +70,7 @@ A global hotkey (`Ctrl+Alt+Space`) opens an assistant that organizes files, inst
 
 ## 🔭 Right now
 
-- 🖥️ **[My_OS](https://github.com/gonicolas12/My_OS) v1.7** is out : a security update of the ISO, and cloud mode updated for Claude Sonnet 5.5 and tested with a real key
+- 🖥️ **[My_OS](https://github.com/gonicolas12/My_OS) v1.8** is out : a security update of the ISO, a first boot that copes without network, and a cheaper cloud mode
 - 🌍 **[My_AI](https://github.com/gonicolas12/My_AI)** now speaks 12 languages
 - 📊 Building **data automation pipelines** with n8n and Python
 - 🧠 Going deeper into **AI engineering** : RAG, MCP, orchestration patterns (ReAct, Plan & Execute)
