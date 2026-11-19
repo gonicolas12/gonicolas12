@@ -71,7 +71,7 @@ A global hotkey (`Ctrl+Alt+Space`) opens an assistant that organizes files, inst
 ## 🔭 Right now
 
 - 🖥️ **[My_OS](https://github.com/gonicolas12/My_OS) v1.8** is out : a security update of the ISO, a first boot that copes without network, and a cheaper cloud mode
-- 🌍 **[My_AI](https://github.com/gonicolas12/My_AI)** now speaks 12 languages
+- 🤖 **[My_AI](https://github.com/gonicolas12/My_AI) v9.2.0** is out : every file opens in a preview, in the app, on your phone and in VS Code, and the memory now takes whole documents and folders
 - 📊 Building **data automation pipelines** with n8n and Python
 - 🧠 Going deeper into **AI engineering** : RAG, MCP, orchestration patterns (ReAct, Plan & Execute)
 
